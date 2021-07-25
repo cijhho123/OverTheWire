@@ -10,7 +10,9 @@ To find out more about a certain wargame, just visit its page linked from the me
 
 ## My Solutions
 [1. Bandit](/Bandit)
-Leviathan or Natas or Krypton
+Natas
+Leviathan
+Krypton
 Narnia
 Behemoth
 Utumno
