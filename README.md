@@ -1,3 +1,3 @@
 # OverTheWire
-![logo](https://github.com/cijhho123/OverTheWire/blob/main/logo.jpg?raw=true)
+![logo](assets/logo.jpg)
 My solutions for the OverTheWire community practices
