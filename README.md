@@ -9,12 +9,13 @@ To find out more about a certain wargame, just visit its page linked from the me
 
 
 ## My Solutions
-[1. Bandit](/Bandit)<\br>
-Natas <\br>
-Leviathan <\br>
-Krypton <\br>
-Narnia <\br>
-Behemoth <\br>
-Utumno<\br>
-Maze<\br>
+[1. Bandit](/Bandit)<br\>
+Natas <br\>
+Leviathan <br\>
+Krypton <br\>
+Narnia <br\>
+Behemoth <br\>
+Utumno<br\>
+Maze<br\>
+
 
