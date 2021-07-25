@@ -1,6 +1,6 @@
 ![logo](assets/logo.jpg)
 
-<\br>My solutions for the OverTheWire community practices:  https://overthewire.org/wargames/
+My solutions for the OverTheWire community practices:  https://overthewire.org/wargames/
 
 ## What is Over The Wire?
 
