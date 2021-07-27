@@ -15,7 +15,7 @@ and will mark passwords with
 
   
 ## Stage 0 
-  The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
+#### The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 </br>
 ```ssh bandit0@bandit.labs.overthewire.org -p 2220``` </br>
 are you sure you want to continue connecting (yes/no/[fingerprint])? </br>
@@ -23,7 +23,7 @@ are you sure you want to continue connecting (yes/no/[fingerprint])? </br>
 
 
 ## Stage 1
-The password for the next level is stored in a file called - located in the home directory</br>
+#### The password for the next level is stored in a file called - located in the home directory</br>
 ```bandit0@bandit:~$ ls ``` </br>
 readme </br>
 ```bandit0@bandit:~$ cat readme ``` </br>
@@ -31,7 +31,7 @@ readme </br>
 
 
 ## Stage 2
-The password for the next level is stored in a file called spaces in this filename located in the home directory </br>
+#### The password for the next level is stored in a file called spaces in this filename located in the home directory </br>
 ```bandit1@bandit:~$ ls``` </br>
 ‌‌ - </br>
 ```bandit1@bandit:~$ cat /-``` </br>
