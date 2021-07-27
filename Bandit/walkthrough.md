@@ -29,13 +29,13 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1 </br>
 
 
 ## Stage 2
-The password for the next level is stored in a file called spaces in this filename located in the home directory</br>
-```bandit1@bandit:~$ ls```
--
-```bandit1@bandit:~$ cat /-```
-cat: /-: No such file or directory
-```bandit1@bandit:~$ cat ./-```
-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+The password for the next level is stored in a file called spaces in this filename located in the home directory </br>
+```bandit1@bandit:~$ ls``` </br>
+‌‌ - </br>
+```bandit1@bandit:~$ cat /-``` </br>
+cat: /-: No such file or directory </br>
+```bandit1@bandit:~$ cat ./-``` </br>
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 </br>
 
 
 
