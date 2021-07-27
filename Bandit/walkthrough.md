@@ -17,8 +17,6 @@ I am using an Ubuntu VM for the puzzle, and will save my terminal commands via <
 </br>
 ```ssh bandit0@bandit.labs.overthewire.org -p 2220``` </br>
 are you sure you want to continue connecting (yes/no/[fingerprint])? </br>
-```y```</br>
-Please type 'yes', 'no' or the fingerprint: </br>
 ```yes```</br>
 </br>
 ## Stage 1
