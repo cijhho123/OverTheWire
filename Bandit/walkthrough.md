@@ -20,6 +20,15 @@ are you sure you want to continue connecting (yes/no/[fingerprint])? </br>
 ```yes```</br>
 </br>
 ## Stage 1
+The password for the next level is stored in a file called - located in the home directory</br>
+```bandit0@bandit:~$ ls ``` </br>
+readme </br>
+```bandit0@bandit:~$ cat readme ``` </br>
+[PASSWORD] (Obviously i am not gonna spoil everything) </br>
+
+## Stage 2
+The password for the next level is stored in a file called spaces in this filename located in the home directory</br>
+
 
 
 ```
