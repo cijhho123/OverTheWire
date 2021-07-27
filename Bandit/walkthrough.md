@@ -9,7 +9,9 @@ This game, like most other games, is organised in levels. You start at Level 0 a
  
 ## Introduction
 I am using an Ubuntu VM for the puzzle, and will save my terminal commands via </br>
-``` history > history_for_print.txt ```
+``` history > history_for_print.txt ``` </br>
+and will mark passwords with 
+>PASSWORD
 
   
 ## Stage 0 
@@ -25,7 +27,7 @@ The password for the next level is stored in a file called - located in the home
 ```bandit0@bandit:~$ ls ``` </br>
 readme </br>
 ```bandit0@bandit:~$ cat readme ``` </br>
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1 </br>
+>boJ9jbbUNNfktd78OOpsqOltutMc3MY1 </br>
 
 
 ## Stage 2
@@ -35,7 +37,7 @@ The password for the next level is stored in a file called spaces in this filena
 ```bandit1@bandit:~$ cat /-``` </br>
 cat: /-: No such file or directory </br>
 ```bandit1@bandit:~$ cat ./-``` </br>
-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 </br>
+>CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 </br>
 
 
 
