@@ -46,4 +46,10 @@ spaces in this filename\
 ```bandit2@bandit:~$ cat "spaces in this filename"```
 >UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
+
+## stage 4
+#### The password for the next level is stored in a hidden file in the inhere directory.
+
+
+
 ```
