@@ -57,6 +57,6 @@ bandit3@bandit:~/inhere$ ls -a
 bandit3@bandit:~/inhere$ cat .hidden 
 >pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
-
-
+## stage 5
+#### The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties: </br> human-readable </br>1033 bytes in size </br>not executable
 ```
