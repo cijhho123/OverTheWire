@@ -49,12 +49,12 @@ spaces in this filename\
 
 ## stage 4
 #### The password for the next level is stored in a hidden file in the inhere directory.
-bandit3@bandit:~$ ls
-inhere
-bandit3@bandit:~$ cd inhere/
-bandit3@bandit:~/inhere$ ls -a
-.  ..  .hidden
-bandit3@bandit:~/inhere$ cat .hidden 
+```bandit3@bandit:~$ ls```</br>
+inhere</br>
+```bandit3@bandit:~$ cd inhere/ ```</br>
+```bandit3@bandit:~/inhere$ ls -a ```</br>
+.  ..  .hidden</br>
+```bandit3@bandit:~/inhere$ cat .hidden ```</br>
 >pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 ## stage 5
