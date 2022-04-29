@@ -34,7 +34,7 @@ readme </br>
 #### The password for the next level is stored in a file called spaces in this filename located in the home directory </br>
 ```ssh -p 2220 bandit1@bandit.labs.overthewire.org``` </br>
 
-```bandit1@bandit:~$ ls``` </br>
+```bandit2@bandit:~$ ls``` </br>
 ‌‌ - </br>
 ```bandit1@bandit:~$ cat /-``` </br>
 cat: /-: No such file or directory </br>
