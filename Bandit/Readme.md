@@ -23,7 +23,7 @@ are you sure you want to continue connecting (yes/no/[fingerprint])? </br>
 
 ## Stage 1
 #### The password for the next level is stored in a file called - located in the home directory</br>
-```ssh -p 2220 bandit1@bandit.labs.overthewire.org```
+```ssh -p 2220 bandit1@bandit.labs.overthewire.org``` </br>
 ```bandit0@bandit:~$ ls ``` </br>
 readme </br>
 ```bandit0@bandit:~$ cat readme ``` </br>
