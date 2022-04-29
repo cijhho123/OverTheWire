@@ -102,10 +102,10 @@ maybehere01  maybehere05  maybehere09  maybehere13  maybehere17
 ## Stage 7
 #### The password for the next level is stored somewhere on the server and has all of the following properties:</br>owned by user bandit7 </br>owned by group bandit6 </br>33 bytes in size
 
-```ssh -p 2220 bandit6@bandit.labs.overthewire.org```
+```ssh -p 2220 bandit6@bandit.labs.overthewire.org```</br>
 
-```bandit6@bandit:/var/lib/dpkg/info$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null```
-/var/lib/dpkg/info/bandit7.password
+```bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null```</br>
+/var/lib/dpkg/info/bandit7.password  </br>
 
-```bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password```
+```bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password``` </br>
 >HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
