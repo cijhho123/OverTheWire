@@ -129,6 +129,6 @@ millionth	cvX2JJa4CFALtqS87jk27qwqGhBM9plV</br>
 ```bandit8@bandit:~$ ls -a```   </br>
 .  ..  .bash_logout  .bashrc  data.txt  .profile
 
-```bandit8@bandit:~$ cat data.txt | sort | uniq -c | sort -r | head -1```   </br>
+```bandit8@bandit:~$ cat data.txt | sort | uniq -c | tail -1```   </br>
       1 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 >UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
